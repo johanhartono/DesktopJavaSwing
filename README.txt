@@ -1,10 +1,8 @@
-Netbeans Java Application Template Lite adalah sebuah template java source code yang dibangun dari Netbeans IDE Teknologi java Swing Windows Desktop Application. 
+Netbeans Java Application Template adalah sebuah template java source code yang dibangun dari Netbeans IDE Teknologi java Swing Windows Desktop Application. 
 Aplkasi ini cukup ringan dan powerful disamping itu juga open source bisa dijalankan semua platform baik windows dan linux.
 
 Adapun Fitur2 dari Template tsb adalah:
-1. Lengkap dari Halaman Login, Hak Akses menu dan submenu, Sample CRUD Data, Transaksi sampai Pelaporan. (untuk versi Lite tidak disertai fitur hak akses 
-dan  bisa dibeli di https://www.tokopedia.com/hanshiatech/netbeans-java-application-templates
-
+1. Lengkap dari Halaman Login, Hak Akses menu dan submenu, Sample CRUD Data, Transaksi sampai Pelaporan. 
 2. Support berbagai macam database dari SQL Server, MySQL dan Postgre SQL.
 3. Anda tidak perlu merancang dari awal dan habis waktu untuk memulai seperti pembuatan login hak akses atau anda hanya fokus ke bisnis proses dengan mengikuti
  template tsb.
@@ -13,3 +11,5 @@ dan  bisa dibeli di https://www.tokopedia.com/hanshiatech/netbeans-java-applicat
 untuk aplikasi yang bermacam - macam
 5. Source Code mudah dimengerti dan Laporan Desain menggunakan jasper report
 6. Source code ini adalah asli dibuat oleh ownernya.
+
+bisa dibeli di https://www.tokopedia.com/hanshiatech/netbeans-java-application-templates
