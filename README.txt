@@ -2,7 +2,7 @@ Netbeans Java Application Template adalah sebuah template java source code yang 
 Aplkasi ini cukup ringan dan powerful disamping itu juga open source bisa dijalankan semua platform baik windows dan linux.
 
 Adapun Fitur2 dari Template tsb adalah:
-<<<<<<< HEAD
+
 1. Lengkap dari Halaman Login, Hak Akses menu dan submenu, Sample CRUD Data, Transaksi sampai Pelaporan. 
 =======
 1. Lengkap dari Halaman Login, Hak Akses menu dan submenu, Sample CRUD Data, Transaksi sampai Pelaporan.
@@ -14,8 +14,4 @@ Adapun Fitur2 dari Template tsb adalah:
 5. Source Code mudah dimengerti dan Laporan Desain menggunakan jasper report
 6. Source code ini adalah asli dibuat oleh ownernya.
 
-<<<<<<< HEAD
 bisa dibeli di https://www.tokopedia.com/hanshiatech/netbeans-java-application-templates
-=======
-Bisa dibeli di https://www.tokopedia.com/hanshiatech/netbeans-java-application-templates
->>>>>>> eb7ce1c1eb655f1f5a0d83013eabccd00a4bee09
