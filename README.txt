@@ -14,4 +14,3 @@ Adapun Fitur2 dari Template tsb adalah:
 5. Source Code mudah dimengerti dan Laporan Desain menggunakan jasper report
 6. Source code ini adalah asli dibuat oleh ownernya.
 
-bisa dibeli di https://www.tokopedia.com/hanshiatech/netbeans-java-application-templates
