@@ -14,3 +14,5 @@ Adapun Fitur2 dari Template tsb adalah:
 5. Source Code mudah dimengerti dan Laporan Desain menggunakan jasper report
 6. Source code ini adalah asli dibuat oleh ownernya.
 
+THe File Can de download from google drive:
+https://drive.google.com/file/d/11Pu5BEZncNoryqN8Sjk92Dkm161sSLZ5/view?usp=sharing
